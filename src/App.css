@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-image: url('../public/abcd.jpg');  /* Make sure the path is correct */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
